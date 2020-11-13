@@ -14,10 +14,9 @@
 
 <!---Paragraph Tag----->
 <p> 
-Hello! <br>
-I am Mohammed Zakir Hossain. I live in Dhaka Kamlapur.<br> 
+Hello! I am Mohammed Zakir Hossain. I live in Dhaka Kamlapur.<br> 
 I have been working at Desktop Computer Connection Ltd. as a <br>
-IT Support Manager Banking cell Software Division. 
+IT Support Manager Banking cell Software Division.
 </p>
 
 <!---link/ anchor Tag------>
@@ -27,25 +26,8 @@ IT Support Manager Banking cell Software Division.
 
 <!---image Tag----->
 
-<img src ="image\a.jpg" alt="image" width ="100px" heigth="100px"/><br>
-
-<!----button tag---->
-
-<button> My Contact No </button> <br>
-
-<!------Order List---->
-
-<P>
-Desktop Provide Brand Laptop/Desktop PC </p>
-<ul>
-<li>HP</li>
-<li>DELL</li>
-<li>LENOVO</li>
-<li>ACER</li>
-</ul>
-
+<img src ="a.png" alt="image" width ="100px" heigth="100px"/>
  
 
 </body>
-
 </html>
